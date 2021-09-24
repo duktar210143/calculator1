@@ -4,6 +4,7 @@ root.title("calculator")
 root.iconbitmap('cal.ico')
 root.configure(bg="grey")
 root.geometry("290x490")
+#abcdefg gandu
 
 e=Entry(root, width=40, borderwidth=9,bg="light grey",fg="black")
 e.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
